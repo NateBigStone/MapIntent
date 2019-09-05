@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map Intent</string>
+    <string name="instructions">Enter place to map</string>
+    <string name="map_button">Map</string>
+</resources>
